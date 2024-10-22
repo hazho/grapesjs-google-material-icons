@@ -27,7 +27,7 @@
   ],
   "author": "Ergin Deniz Kosecioglu",
   "devDependencies": {
-    "@material-design-icons/scripts": "^0.2.2",
+    "@material-design-icons/scripts": "^0.5.2",
     "css-loader": "^6.7.3",
     "grapesjs": "^0.21.8",
     "grapesjs-cli": "^3.0.1",
